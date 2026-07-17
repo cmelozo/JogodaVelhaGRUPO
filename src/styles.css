@@ -34,7 +34,7 @@
 .btn_buscar {
   width: 100%;
   padding: 10px;
-  background-color: #2a75d3;
+  background-color: #c82ad3;
   color: white;
   border: none;
   border-radius: 4px;
@@ -43,7 +43,7 @@
 }
 
 .btn_buscar:hover {
-  background-color: #1e5bb0;
+  background-color: #8e1eb0;
 }
 
 .mensagem_erro {
