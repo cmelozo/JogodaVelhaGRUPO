@@ -9,7 +9,7 @@
 }
 
 .pokemon_form {
-  background: #f4f4f4;
+  background: #b3b3b3;
   padding: 15px;
   border-radius: 8px;
   width: 100%;
@@ -26,7 +26,7 @@
 
 .campo_input input {
   padding: 8px;
-  border: 1px solid #ccc;
+  border: 1px solid #000000;
   border-radius: 4px;
   width: 65%;
 }
